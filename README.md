@@ -1,4 +1,4 @@
-https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true
+
 
 
 - 👋 Hi, I’m Jimmy
