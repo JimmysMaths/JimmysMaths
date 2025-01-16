@@ -1,3 +1,6 @@
+https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true
+
+
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Tryhackme
